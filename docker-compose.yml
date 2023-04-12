@@ -8,4 +8,4 @@ services:
     ports:
       - '8099:80'
     container_name: app-cegah-terbaru
-    env_file: .env.example
+    env_file: .env
